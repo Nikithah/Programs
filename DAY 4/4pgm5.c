@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int n,a[n],num,i,count=0,attempts=0;
+    int n,a[100],num,i,count=0,attempts=0;
     printf("enter the number of chits \n");
     scanf("%d",&n);
     printf("enter the numbers on chits \n ");
